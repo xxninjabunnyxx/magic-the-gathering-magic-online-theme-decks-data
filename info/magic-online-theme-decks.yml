@@ -1,0 +1,17 @@
+---
+object: set
+id: b432b6ae-1d7d-49b1-ab1c-93ae7195fa06
+code: td0
+mtgo_code: td0
+arena_code: td0
+name: Magic Online Theme Decks
+uri: https://api.scryfall.com/sets/b432b6ae-1d7d-49b1-ab1c-93ae7195fa06
+scryfall_uri: https://scryfall.com/sets/td0
+search_uri: https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Atd0&unique=prints
+released_at: '2010-11-08'
+set_type: box
+card_count: 197
+digital: true
+nonfoil_only: true
+foil_only: false
+icon_svg_uri: https://svgs.scryfall.io/sets/td0.svg?1694404800

@@ -1,0 +1,109 @@
+---
+object: card
+id: e5060102-933d-481d-a70e-75c6e8b78762
+oracle_id: 51d9564b-44fc-4de1-9119-09d7b4089378
+multiverse_ids: []
+mtgo_id: 37917
+mtgo_foil_id: 37918
+name: Goblin Guide
+lang: en
+released_at: '2010-11-08'
+uri: https://api.scryfall.com/cards/e5060102-933d-481d-a70e-75c6e8b78762
+scryfall_uri: https://scryfall.com/card/td0/B17/goblin-guide?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/e/5/e5060102-933d-481d-a70e-75c6e8b78762.jpg?1562940969
+  normal: https://cards.scryfall.io/normal/front/e/5/e5060102-933d-481d-a70e-75c6e8b78762.jpg?1562940969
+  large: https://cards.scryfall.io/large/front/e/5/e5060102-933d-481d-a70e-75c6e8b78762.jpg?1562940969
+  png: https://cards.scryfall.io/png/front/e/5/e5060102-933d-481d-a70e-75c6e8b78762.png?1562940969
+  art_crop: https://cards.scryfall.io/art_crop/front/e/5/e5060102-933d-481d-a70e-75c6e8b78762.jpg?1562940969
+  border_crop: https://cards.scryfall.io/border_crop/front/e/5/e5060102-933d-481d-a70e-75c6e8b78762.jpg?1562940969
+mana_cost: "{R}"
+cmc: 1.0
+type_line: Creature — Goblin Scout
+oracle_text: |-
+  Haste
+  Whenever Goblin Guide attacks, defending player reveals the top card of their library. If it's a land card, that player puts it into their hand.
+power: '2'
+toughness: '2'
+colors:
+- R
+color_identity:
+- R
+keywords:
+- Haste
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: not_legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: not_legal
+  duel: legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: legal
+games:
+- mtgo
+reserved: false
+foil: false
+nonfoil: true
+finishes:
+- nonfoil
+oversized: false
+promo: false
+reprint: true
+variation: false
+set_id: b432b6ae-1d7d-49b1-ab1c-93ae7195fa06
+set: td0
+set_name: Magic Online Theme Decks
+set_type: box
+set_uri: https://api.scryfall.com/sets/b432b6ae-1d7d-49b1-ab1c-93ae7195fa06
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Atd0&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/td0?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/e5060102-933d-481d-a70e-75c6e8b78762/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A51d9564b-44fc-4de1-9119-09d7b4089378&unique=prints
+collector_number: B17
+digital: true
+rarity: rare
+flavor_text: '"I''ve been all over this world. I even remember some of those places."'
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Warren Mahy
+artist_ids:
+- 002c739e-aa1f-4c1d-921b-37cb2d1b1c5b
+illustration_id: e9672c1a-fdd7-49c9-866e-e249698a082b
+border_color: black
+frame: '2003'
+full_art: false
+textless: false
+booster: false
+story_spotlight: false
+edhrec_rank: 10347
+prices:
+  usd: 
+  usd_foil: 
+  usd_etched: 
+  eur: 
+  eur_foil: 
+  tix: '0.78'
+related_uris:
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Goblin+Guide&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Goblin+Guide&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Goblin+Guide
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/search/magic/product?productLineName=magic&q=Goblin+Guide&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall&view=grid
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Goblin+Guide&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards/37917?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

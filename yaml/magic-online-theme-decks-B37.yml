@@ -1,0 +1,103 @@
+---
+object: card
+id: aeb05b65-bcd6-404e-bc79-c71080e33d16
+oracle_id: bc71ebf6-2056-41f7-be35-b2e5c34afa99
+multiverse_ids: []
+mtgo_id: 37911
+mtgo_foil_id: 37912
+name: Plains
+lang: en
+released_at: '2010-11-08'
+uri: https://api.scryfall.com/cards/aeb05b65-bcd6-404e-bc79-c71080e33d16
+scryfall_uri: https://scryfall.com/card/td0/B37/plains?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/a/e/aeb05b65-bcd6-404e-bc79-c71080e33d16.jpg?1562930120
+  normal: https://cards.scryfall.io/normal/front/a/e/aeb05b65-bcd6-404e-bc79-c71080e33d16.jpg?1562930120
+  large: https://cards.scryfall.io/large/front/a/e/aeb05b65-bcd6-404e-bc79-c71080e33d16.jpg?1562930120
+  png: https://cards.scryfall.io/png/front/a/e/aeb05b65-bcd6-404e-bc79-c71080e33d16.png?1562930120
+  art_crop: https://cards.scryfall.io/art_crop/front/a/e/aeb05b65-bcd6-404e-bc79-c71080e33d16.jpg?1562930120
+  border_crop: https://cards.scryfall.io/border_crop/front/a/e/aeb05b65-bcd6-404e-bc79-c71080e33d16.jpg?1562930120
+mana_cost: ''
+cmc: 0.0
+type_line: Basic Land — Plains
+oracle_text: "({T}: Add {W}.)"
+colors: []
+color_identity:
+- W
+keywords: []
+produced_mana:
+- W
+legalities:
+  standard: legal
+  future: legal
+  historic: legal
+  gladiator: legal
+  pioneer: legal
+  explorer: legal
+  modern: legal
+  legacy: legal
+  pauper: legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: legal
+  historicbrawl: legal
+  alchemy: legal
+  paupercommander: legal
+  duel: legal
+  oldschool: not_legal
+  premodern: legal
+  predh: legal
+games:
+- mtgo
+reserved: false
+foil: false
+nonfoil: true
+finishes:
+- nonfoil
+oversized: false
+promo: false
+reprint: true
+variation: false
+set_id: b432b6ae-1d7d-49b1-ab1c-93ae7195fa06
+set: td0
+set_name: Magic Online Theme Decks
+set_type: box
+set_uri: https://api.scryfall.com/sets/b432b6ae-1d7d-49b1-ab1c-93ae7195fa06
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Atd0&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/td0?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/aeb05b65-bcd6-404e-bc79-c71080e33d16/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3Abc71ebf6-2056-41f7-be35-b2e5c34afa99&unique=prints
+collector_number: B37
+digital: true
+rarity: common
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Don Hazeltine
+artist_ids:
+- b4117364-73af-47e5-8cf0-901eeea09e01
+illustration_id: dd577493-a211-4506-b0ab-45847cfc2675
+border_color: black
+frame: '2003'
+full_art: false
+textless: false
+booster: false
+story_spotlight: false
+prices:
+  usd: 
+  usd_foil: 
+  usd_etched: 
+  eur: 
+  eur_foil: 
+  tix: '0.04'
+related_uris:
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Plains&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Plains&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Plains
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/search/magic/product?productLineName=magic&q=Plains&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall&view=grid
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Plains&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards/37911?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

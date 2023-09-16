@@ -1,0 +1,111 @@
+---
+object: card
+id: e21e040d-051c-4bbb-a817-1936e7ba42c3
+oracle_id: 7eadffcb-1e15-44c1-b1db-78c71b8ec1ce
+multiverse_ids: []
+mtgo_id: 33248
+mtgo_foil_id: 33249
+name: Rupture Spire
+lang: en
+released_at: '2010-11-08'
+uri: https://api.scryfall.com/cards/e21e040d-051c-4bbb-a817-1936e7ba42c3
+scryfall_uri: https://scryfall.com/card/td0/A134/rupture-spire?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/e/2/e21e040d-051c-4bbb-a817-1936e7ba42c3.jpg?1562940445
+  normal: https://cards.scryfall.io/normal/front/e/2/e21e040d-051c-4bbb-a817-1936e7ba42c3.jpg?1562940445
+  large: https://cards.scryfall.io/large/front/e/2/e21e040d-051c-4bbb-a817-1936e7ba42c3.jpg?1562940445
+  png: https://cards.scryfall.io/png/front/e/2/e21e040d-051c-4bbb-a817-1936e7ba42c3.png?1562940445
+  art_crop: https://cards.scryfall.io/art_crop/front/e/2/e21e040d-051c-4bbb-a817-1936e7ba42c3.jpg?1562940445
+  border_crop: https://cards.scryfall.io/border_crop/front/e/2/e21e040d-051c-4bbb-a817-1936e7ba42c3.jpg?1562940445
+mana_cost: ''
+cmc: 0.0
+type_line: Land
+oracle_text: |-
+  Rupture Spire enters the battlefield tapped.
+  When Rupture Spire enters the battlefield, sacrifice it unless you pay {1}.
+  {T}: Add one mana of any color.
+colors: []
+color_identity: []
+keywords: []
+produced_mana:
+- B
+- G
+- R
+- U
+- W
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: legal
+  gladiator: legal
+  pioneer: legal
+  explorer: legal
+  modern: legal
+  legacy: legal
+  pauper: legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: legal
+  alchemy: not_legal
+  paupercommander: legal
+  duel: legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: legal
+games:
+- mtgo
+reserved: false
+foil: false
+nonfoil: true
+finishes:
+- nonfoil
+oversized: false
+promo: false
+reprint: true
+variation: false
+set_id: b432b6ae-1d7d-49b1-ab1c-93ae7195fa06
+set: td0
+set_name: Magic Online Theme Decks
+set_type: box
+set_uri: https://api.scryfall.com/sets/b432b6ae-1d7d-49b1-ab1c-93ae7195fa06
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Atd0&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/td0?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/e21e040d-051c-4bbb-a817-1936e7ba42c3/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A7eadffcb-1e15-44c1-b1db-78c71b8ec1ce&unique=prints
+collector_number: A134
+digital: true
+rarity: common
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Jaime Jones
+artist_ids:
+- 92f6c2c1-fa57-4b52-99c4-0fd866c13dc9
+illustration_id: 131f121c-f166-4424-a747-b14348895566
+border_color: black
+frame: '2003'
+full_art: false
+textless: false
+booster: false
+story_spotlight: false
+edhrec_rank: 2784
+penny_rank: 6836
+prices:
+  usd: 
+  usd_foil: 
+  usd_etched: 
+  eur: 
+  eur_foil: 
+  tix: '0.03'
+related_uris:
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Rupture+Spire&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Rupture+Spire&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Rupture+Spire
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/search/magic/product?productLineName=magic&q=Rupture+Spire&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall&view=grid
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Rupture+Spire&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards/33248?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall
